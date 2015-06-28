@@ -26,3 +26,6 @@ How To Use
 	
 #### Create Table in Database ####
 	run url: {domain_name}/public/install
+	
+#### Run the Application ####
+	run url: {domain_name}/public
